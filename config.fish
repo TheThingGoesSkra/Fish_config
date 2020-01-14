@@ -1,0 +1,1 @@
+fish_import_bash_aliases;clear
