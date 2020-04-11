@@ -1,3 +1,3 @@
 fish_import_bash_aliases;
-set PATH /root/go/bin $PATH;
+set PATH /home/$USER/go/bin $PATH;
 clear;
